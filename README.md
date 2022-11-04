@@ -8,3 +8,4 @@ pgrm1 end
  sl-3
  sl-4
  pgrm2 end
+ reset
