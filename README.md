@@ -9,3 +9,4 @@ pgrm1 end
  sl-4
  pgrm2 end
  reset1 added
+ restore 1
