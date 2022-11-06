@@ -10,4 +10,3 @@ pgrm1 end
  pgrm2 end
  reset1 added
  restore 1
- git reset --soft
