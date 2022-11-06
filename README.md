@@ -11,5 +11,3 @@ pgrm1 end
  reset1 added
  restore 1
  git reset --hard1
- git reset --soft1 head^
- revert testing
