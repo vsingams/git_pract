@@ -12,3 +12,4 @@ pgrm1 end
  restore 1
  git reset --hard1
  git stash apply
+ git stash pop
