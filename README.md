@@ -12,8 +12,12 @@ pgrm1 end
  restore 1
  git reset --hard1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  git stash apply
  git stash pop
+=======
+ git stash
+>>>>>>> Stashed changes
 =======
  git stash
 >>>>>>> Stashed changes
